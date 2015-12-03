@@ -1,15 +1,15 @@
 {
-    "name": "bernardosilva/git-hooks-php",
+    "name": "partnermarketing/pm-git-hooks-php",
     "type": "git-hook",
-    "description": "Composer git-hook package with hooks for your php projects.",
+    "description": "Partnermarketing Composer git-hook package with hooks for your php projects.",
     "keywords": ["git", "hooks", "checkstyle", "php-cs-fixer", "pre-commit"],
     "license": "MIT",
     "authors": [
         {"name": "Bernardo Silva", "email": "benny.stuff@gmail.com"}
     ],
     "support": {
-        "issues": "https://github.com/BernardoSilva/git-hooks-php/issues",
-        "source": "https://github.com/BernardoSilva/git-hooks-php"
+        "issues": "https://github.com/Partnermarketing/pm-git-hooks-php/issues",
+        "source": "https://github.com/Partnermarketing/pm-git-hooks-php"
     },
     "require": {
         "bernardosilva/git-hooks-installer-plugin": "~0.1.0",
